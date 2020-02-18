@@ -195,4 +195,35 @@ footer {
 .anchor[name=education]{
     top:650px;
 }
- 
+#fb:hover{
+    content: url("ico/fb-color.png");
+}
+#mail:hover{
+    content: url("ico/mail-color.png");
+}
+#skype:hover{
+    content: url("ico/skype-color.png");
+}
+#telegram:hover{
+    content: url("ico/telegram-color.png");
+}
+#twitter:hover{
+    content: url("ico/twitter-color.png");
+}
+#viber:hover{
+    content: url("ico/viber-color.png");
+}
+#vk:hover{
+    content: url("ico/vk-color.png");
+}
+#whatsapp:hover{
+    content: url("ico/whatsapp-color.png");
+}
+#my_photo{
+    grid-row: 1 / span5;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 2px solid lightseagreen;
+    box-shadow: -5px 8px 7px aqua;
+}
