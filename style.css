@@ -1,0 +1,15 @@
+html{
+    color:white;
+}
+header {
+    background: #77ced9;
+    height: 68px;
+    position: fixed;
+    width: 1024px;
+    top: 0;
+    z-index: 5;
+}
+main{
+    margin-top: 68px;
+    width: 1024px;
+} 
