@@ -1,8 +1,10 @@
 # Junior Developer Resume
  
  My name is **Yakubov Nikolay**.
- ###[Vk.com](https://vk.com/erold_kolin)
- ###Phone number: **+375(25)-938-55-51** 
+
+ [Vk.com](https://vk.com/erold_kolin)
+
+ Phone number: **+375(25)-938-55-51** 
  
 ### About me
  The purpose of my training is to acquire skills, knowledge and experience for
